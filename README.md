@@ -6,4 +6,5 @@ It removes all the hashes that are created when files are exported, facilitating
 
 ## How to use:
 Import the folder or file into the root folder of the application and `run go run .`
+
 The lib will update all internal files and folders as well.
